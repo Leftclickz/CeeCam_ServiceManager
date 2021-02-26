@@ -1,0 +1,1 @@
+sc stop CeeCam_ServiceManager
